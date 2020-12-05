@@ -1,0 +1,7 @@
+.logo {
+    height: 45px;
+    background-image:  url(../img.jpg);
+    background-size: cover;
+    margin: 16px;
+    border-radius: 5px;
+  }

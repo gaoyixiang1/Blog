@@ -1,0 +1,29 @@
+/* head */
+.header{
+    background-color: #fff;
+    padding: .4rem;
+    height: 3.2rem;
+    opacity: 0.8;
+    border-bottom: 1px solid #ccc;
+}
+.header-logo{
+    color:#1e90ff;
+    font-size: 1.4rem;
+    text-align: left;
+    font-weight: bold;
+}
+.header-txt{
+    display: inline-block;
+    font-size: .7rem;
+    color: #999;
+    padding-left: .3rem;
+}
+
+.ant-menu{
+    line-height: 2.8em;
+}
+.ant-menu-item{
+    font-size: 1rem !important;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
